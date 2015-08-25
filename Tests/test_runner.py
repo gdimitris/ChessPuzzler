@@ -18,7 +18,7 @@ runner.run(test_suite)
 coverage_obj.stop()
 coverage_obj.save()
 
-time.sleep(0.1)
+time.sleep(0.3)
 print '\n Coverage Report: \n'
 coverage_obj.report()
 print '\n Report in HTML: http://localhost:63342/ChessPuzzlerBackend/tmp/coverage/index.html'
