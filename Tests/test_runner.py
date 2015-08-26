@@ -2,7 +2,7 @@ __author__ = 'dimitris'
 
 import unittest
 import time
-from Tests.wtharvey_importer_tests import HarveyImporterTests
+from Tests.chess_game_importer_tests import HarveyImporterTests
 from coverage import coverage
 
 
