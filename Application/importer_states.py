@@ -19,7 +19,6 @@ class AbstractImporterState:
 
 
 class NoEntryState(AbstractImporterState):
-
     def handle_whitespace_line(self, line):
         pass
 
@@ -30,7 +29,6 @@ class NoEntryState(AbstractImporterState):
 
 
 class HasEntryState(AbstractImporterState):
-
     def __init__(self, importer_object, object_factory):
         super(HasEntryState, self).__init__(importer_object, object_factory)
         self.entries_buffer_list = list()

@@ -1,15 +1,17 @@
 __author__ = 'dimitris'
 
+import string
+import codecs
+
 from Application.importer_states import HasEntryState, NoEntryState
 from Application.wtharvey_factory import WTHarveyFactory
-import string
 
 
 def is_whitespace(line):
     return all(c in string.whitespace for c in line)
 
 
-class ChessGameImporter:
+class ChessGameParser:
     def __init__(self):
         factory = WTHarveyFactory()
         self.no_entry_state = NoEntryState(self, factory)
@@ -26,7 +28,7 @@ class ChessGameImporter:
         self.current_state = state
 
     def parse_file_for_chess_entries(self, filename):
-        chess_game_file = open(filename, 'r')
+        chess_game_file = codecs.open(filename, 'r', 'utf-8')
         try:
             self.read_entries(chess_game_file)
         except StopIteration:

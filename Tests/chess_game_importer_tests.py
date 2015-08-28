@@ -3,7 +3,7 @@ __author__ = 'dimitris'
 import unittest
 import Application.views as application
 from Application.models import ChessPuzzle
-from Application.chess_game_importer import ChessGameImporter
+from Application.chess_game_importer import ChessGameParser
 from Application import app, db
 
 
@@ -12,9 +12,8 @@ class HarveyImporterTests(unittest.TestCase):
     def setUp(self):
         app.config.from_pyfile('../Tests/test_configuration.py')
         self.app = application.app.test_client()
-        self.importer = ChessGameImporter()
+        self.importer = ChessGameParser()
         db.create_all()
-
 
     def tearDown(self):
         db.session.remove()
@@ -27,6 +26,7 @@ class HarveyImporterTests(unittest.TestCase):
         expected_object = ChessPuzzle(description=desc, fen=fen, solution=solution)
         result_list = self.importer.parse_file_for_chess_entries('Test_Resources/one_entry.txt')
         self.assertEqual(expected_object, result_list[0])
+        self.assertEqual(1, len(result_list))
 
     def testReadSevenEntries_ReturnsCorrectFifthEntry(self):
         fifth_desc = 'Gustav Neumann vs Carl Mayet, Berlin, 1866'
@@ -35,6 +35,7 @@ class HarveyImporterTests(unittest.TestCase):
         expected_object = ChessPuzzle(description=fifth_desc, fen=fifth_fen, solution=fifth_solution)
         result_list = self.importer.parse_file_for_chess_entries('Test_Resources/m8n2.txt')
         self.assertEqual(expected_object, result_list[4])
+        self.assertEqual(7, len(result_list))
 
     def testReadSevenEntries_ReturnsCorrectThirdEntry(self):
         third_desc = 'Paul Morphy vs Duke Isouard, Paris, 1858'
@@ -43,3 +44,13 @@ class HarveyImporterTests(unittest.TestCase):
         expected_object = ChessPuzzle(description=third_desc, fen=third_fen, solution=third_solution)
         result_list = self.importer.parse_file_for_chess_entries('Test_Resources/m8n2.txt')
         self.assertEqual(expected_object, result_list[2])
+        self.assertEqual(7, len(result_list))
+
+    def testReadTenEntries_ReturnsCorrectEighthEntry(self):
+        eighth_desc = 'NN vs Henry Bird, England, 1850'
+        eighth_fen = 'N1bk4/pp1p1Qpp/8/2b5/3n3q/8/PPP2RPP/RNB1rBK1 b - - 0 1'
+        eighth_solution = '1... Ne2+ 2. Kh1 Ng3+ 3. Kg1 Rxf1#'
+        expected_obj = ChessPuzzle(description=eighth_desc, fen=eighth_fen, solution=eighth_solution)
+        result_list = self.importer.parse_file_for_chess_entries('Test_Resources/m8n3.txt')
+        self.assertEqual(expected_obj, result_list[7])
+        self.assertEqual(10, len(result_list))

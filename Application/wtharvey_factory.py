@@ -4,7 +4,6 @@ from Application.models import ChessPuzzle
 
 
 class WTHarveyFactory():
-
     def __init__(self):
         pass
 
