@@ -2298,182 +2298,151 @@ Ding Liren vs Ma Zhonghan, Ningbo, 2011
 1. e4+ Kxe4 2. Re6+ Kd5 3. Re5# 
 
 
-Black Mates in 3.
 Prasad Arun vs Zhamsaran Tsydypov, Moscow, 1/29/2012
 7k/1b1n1q1p/1p1p4/pP2pP1N/P6b/3pB2P/8/1R1Q2K1 b - - 0 1
 1... Qd5 2. Qf3 Qxf3 3. Nf4 Qh1#
 
 
-White Mates in 3.
 Svetlana Cherednichenko vs Yuri Shulman, Reykjavik, 3/7/2012
 3Q4/p4p2/4p1bk/4P2p/1p2P2B/7P/6PK/1Brq4 w - - 1 0
 1. Qh8+ Bh7 2. Bg5+ Kxg5 3. Qf6#
 
 
-Black Mates in 3.
 Christopher Lutz vs Sergio Harnandan, Utrecht, 6/10/2012
 5rk1/1p1r2pp/p2p3q/3P2b1/PP1pP3/5Pp1/4B1P1/2RRQNK1 b - - 0 1
 1... Be3+ 2. Nxe3 Qh2+ 3. Kf1 Qh1# 
 
 
-White Mates in 3.
 Vladimir Fedoseev vs Alexander Zubov, Voronezh, 6/16/2012
 5rk1/p1pQ3R/1p4pp/2q1b3/8/2pB3P/PP2N1P1/7K w - - 1 0
 1. Qe6+ Kxh7 2. Qxg6+ Kh8 3. Qh7# 
 
 
-Black Mates in 3.
 Javier Moreno Carnero vs Julian Andres Munoz, Bogota, 10/??/2012
 r4rk1/pp4b1/6pp/2pP4/5pKn/P2B2N1/1PQP1Pq1/1RB2R2 b - - 0 1
 1... Nf3 2. Bxg6 Ne5+ 3. Kh4 Qh2#
 
 
-Black Mates in 3.
 Mariusz Szewczyk vs Regina Buechle, Germany, 10/6/2012
 4r1k1/5p1p/p4PpQ/4q3/P6P/6P1/3p3K/8 b - - 0 1
 1... Qe2+ 2. Kh3 Qf1+ 3. Kg4 Qf5#
 
 
-White Mates in 3.
 Liubka Genova vs Bergit Brendel, Germany, 10/7/2012
 r2qr3/p4pk1/1pp3p1/n1Pp2P1/3P1Q2/1P1B4/P4PK1/2R4R w - - 1 0
 1. Rh7+ Kxh7 2. Qxf7+ Kh8 3. Rh1#
 
 
-Black Mates in 3.
 S P Sethuraman vs Mhamal Anurag, Kolkata, 10/7/2012
 1R1n3k/6pp/2Nr4/P4p2/r7/8/4PPBP/6K1 b - - 0 1
 1... Rd1+ 2. Bf1 Rg4+ 3. Kh1 Rxf1#
 
 
-Black Mates in 3.
-Tamir Nabaty vs Pinto Paolo Ladron De Guevara, Navalmoral de la Mata, 12/7/2012 
+Tamir Nabaty vs Pinto Paolo Ladron De Guevara, Navalmoral de la Mata, 12/7/2012
 4k1r1/pp2bp2/2p5/3PPP2/1q6/7r/1P2Q2P/2RR3K b - - 0 1
 1... Rxh2+ 2. Qxh2 Qe4+ 3. Qg2 Qxg2#
 
 
-Black Mates in 3.
 Viktor Polischtschuk vs Gerlef Meins, Germany 12/8/2012
 1k2r3/pp6/3b4/3P2Q1/8/6P1/PP3q1P/2R4K b - - 0 1
 1... Qf3+ 2. Kg1 Bc5+ 3. Rxc5 Re1#
 
 
-White Mates in 3.
 Evgeny Sveshnikov vs Daniel Fridman, Tallinn, 1/13/2013
 rnb1qr2/ppp1Nkp1/3p4/4P1B1/7Q/5N2/PPP3PP/R3K2n w Q - 1 0
 1. Qc4+ d5 2. e6+ Bxe6 3. Ne5#
 
 
-Black Mates in 3.
 Vladimir Burmakin vs Julio Granda Zuniga, La Roda, 3/31/2013
 5rk1/1bR2pbp/4p1p1/8/1p1P1PPq/1B2P2r/P2NQ2P/5RK1 b - - 0 1
 1... Rg3+ 2. hxg3 Qxg3+ 3. Qg2 Qxg2#
 
 
-White Mates in 3.
 Parimarjan Negi vs Arnd Lauber, Germany, 3/17/2013
 3R4/r6p/Pkp1N1p1/3p1n2/1P3P2/2P2K2/7P/8 w - - 1 0
 1. Rb8+ Rb7 2. Rxb7+ Kxa6 3. Nc5#
 
 
-Black Mates in 3.
 Peter Svidler vs Viswanathan Anand, Stavanger 5/7/2013
 6k1/p2p3p/2p1p1p1/2Pn2K1/4B1P1/1N3P2/P6r/R4b2 b - - 0 1
 1... Kg7 2. Bxd5 e5 3. Rxf1 h6#
 
 
-Black Mates in 3.
 Martin Petr vs Maxim Rodshtein, Legnica, 5/10/2013
 4k1r1/5p2/p1q5/1p2p2p/6n1/P4bQ1/1P4RP/3NR1BK b - - 0 1
 1... Bxg2+ 2. Qxg2 Nf2+ 3. Nxf2 Qxg2#
 
 
-Black Mates in 3.
 Jan Rindlisbacher vs Jorgen Henseler, Legnica, 5/10/2013
 6k1/2P2p2/6p1/4p1Kp/p1R1Pn1P/5P1r/P4P2/8 b - - 0 1
 1... Kg7 2. Rc6 Rg3+ 3. fxg3 Nh3#
 
 
-Black Mates in 3.
 Yuri Shulman vs Benjamin Finegold, Saint Louis, 5/10/2013
 6k1/4R3/p5q1/2pP1Q2/3bn1r1/P7/6PP/5R1K b - - 0 1
 1... Ng3+ 2. hxg3 Qh6+ 3. Qh5 Qxh5#
 
 
-Black Mates in 3.
 Alexey Kislinsky vs Joseph Gallagher, Legnica, 5/13/2013
 3r3k/1b2b1pp/3pp3/p3n1P1/1pPqP2P/1P2N2R/P1QB1r2/2KR3B b - - 0 1
 1... Qa1+ 2. Qb1 Nd3+ 3. Kc2 Qc3#
 
 
-Black Mates in 3.
 Burak Firat vs Bart Michiels, Legnica, 5/14/2013
 r1b1k2r/p5pp/2n1p3/q2pP1B1/n2P1N2/1p1R3Q/PpP1B1PP/1K5R b kq - 0 1
 1... Nc3+ 2. Kxb2 Qxa2+ 3. Kxc3 Qxc2#
 
 
-Black Mates in 3.
 Bogdan Posedaru vs Anna Iwanow, Legnica, 5/15/2013
 6k1/5p2/3P1Bpp/2b1P3/b1p2p2/p1P5/R5rP/2N1K3 b - - 0 1
 1... Rg1+ 2. Ke2 Bd1+ 3. Kd2 Be3#
 
 
-Black Mates in 3.
 Tanguy Ringoir vs Vladimir Dobrov, Maastricht, 5/18/2013
 2b2rk1/5qp1/2p4p/8/p3Q1PK/Pn6/1P4BP/3R3R b - - 0 1
 1... g5+ 2. Kh3 Qh5+ 3. Kg3 Qh4#
 
 
-White Mates in 3.
 Alexey Kislinsky vs Vojtech Plat, Ledec nad Sazavou, 5/25/2013
 k7/p1Qnr2p/b1pB1p2/3p3q/N1p5/3P3P/PPP3P1/6K1 w - - 1 0
 1. Qd8+ Kb7 2. Nc5+ Nxc5 3. Qb8# 
 
 
-Black Mates in 3.
 Pavel Ponkratov vs Alekasndr Rakhmanov, Khanty Mansyisk, 6/7/2013
 4r1k1/Q4bpp/p7/5N2/1P3qn1/2P5/P1B3PP/R5K1 b - - 0 1
 1... Qxh2+ 2. Kf1 Bc4+ 3. Bd3 Bxd3#
 
 
-Black Mates in 3.
 Sahaj Grower vs Dragisa Blagojevic, Golden Sands, 6/15/2013
 4r1k1/1b1p1pp1/p1q4p/1p4PQ/2ppr3/P5R1/BPPB1P1P/R4K2 b - - 0 1
 1... Re1+ 2. Rxe1 Qh1+ 3. Rg1 Bg2#
 
 
-Black Mates in 3.
 Andrey Vovk vs Roeland Pruijssers, Stroebeck, 6/22/2013
 6k1/p1p3pp/6q1/3pr3/3Nn3/1QP1B1Pb/PP3r1P/R3R1K1 b - - 0 1
 1... Qxg3+ 2. hxg3 Rg2+ 3. Kf1 Nxg3#
 
 
-White Mates in 3.
 Elena Cherednichenko vs Natasa Korbovljanovic, Belgrade, 7/24/2013
 b1r3k1/pq2b1r1/1p3R1p/5Q2/2P5/P4N1P/5PP1/1B2R1K1 w - - 1 0
 1. Qe6+ Kh8 2. Rxh6+ Rh7 3. Rxh7#
 
 
-Black Mates in 3.
 Mila Paramentic vs Martina Folkova, Belgrade, 7/24/2013
 r5k1/p1p3pp/b1p5/3p4/3Nnr2/2P5/PP3qPP/RNQ1R2K b - - 0 1
 1... Bf1 2. Rxf1 Qxf1+ 3. Qxf1 Rxf1#
 
 
-White Mates in 3.
 Anna Muzychuk vs Lilit Galojan, Belgrade, 7/26/2013
 7k/1R6/5pP1/1p1Np3/1P2P3/6r1/2PK4/5b2 w - - 1 0
 1. Rh7+ Kg8 2. Nxf6+ Kf8 3. Rf7#
 
 
-Black Mates in 3.
 Miranda Mikadze vs Tatiana Kosintseva, Belgrade, 7/31/2013
 4r1k1/pb4pp/1p2p3/4Pp2/1P3N2/P2Qn2P/3n1qPK/RBB1R3 b - - 0 1
 1... Nf3+ 2. Kh1 Qxe1+ 3. Qf1 Qxf1#
 
 
-White Mates in 3.
 Irina Zakurdjaeva vs Madona Bokuchava, Belgrade, 7/31/2013
 8/p2pQ2p/2p1p2k/4Bqp1/2P2P2/P6P/6PK/3r4 w - - 1 0
 1. Qg7+ Kh5 2. g4+ Qxg4 3. Qxh7#
-

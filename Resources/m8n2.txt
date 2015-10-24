@@ -963,169 +963,141 @@ r1b2k2/1p1p1r1B/n4p2/p1qPp3/2P4N/4P1R1/PPQ3PP/R5K1 w - - 1 0
 1. Rg8+ Ke7 2. Nf5#
 
 
-White Mates in 2.
 Vladimir Fedoseev vs Tomi Nyback, Tallinn, 1/8/2012
 8/8/2K2b2/2N2k2/1p4R1/1B3n1P/3r1P2/8 w - - 1 0
 1. Be6+ Ke5 2. Re4#
 
 
-Black Mates in 2.
 Nana Dzagnidze vs Gulnar Mammadova, Gaziantep, 3/2/2012
 5R2/R5pp/2b1p1k1/5n2/p1r2PK1/8/7P/8 b - - 0 1
 1... h5+ 2. Kh3 Rc3#
 
 
-White Mates in 2.
 Mukhit Ismailov vs Pavel Potapov, Tashkent, 3/14/2012
 8/3R3p/2b4k/p1p1B1p1/2n2PB1/3p1P2/P7/6K1 w - - 1 0
 1. Bg7+ Kg6 2. f5# *
 
 
-Black Mates in 2.
 Aleksej Aleksandrov vs Misraddin Iskandarov, Nakhchivan, 5/3/2012
 6k1/1p5p/3P3r/4p3/2N1PBpb/PPr5/3R1P1K/5b1R b - - 0 1
 1... Bxf2+ 2. Bxh6 Rh3# 
 
 
-Black Mates in 2.
 Aleksa Strikovic vs Jasem Alhuwar, Paris, 7/7/2012
 8/4n2k/b1Pp2p1/3Ppp1p/p2qP3/3B1P2/Q2NK1PP/3R4 b - - 0 1
 1... Bxd3+ 2. Ke1 Qe3#
 
 
-White Mates in 2.
 David Howell vs Aljoscha Feuerstack, Germany, 10/20/2012
 k2r4/ppRn2p1/6p1/1P3p2/3p1B2/6P1/P4PBP/4n1K1 w - - 1 0
 1. Bxb7+ Kb8 2. Rxd7#
 
 
-White Mates in 2.
 Alexander Motylev vs David Baramidze, Germany, 10/21/2012
 4rk2/1bq2p1Q/3p1bp1/1p1n2N1/4PB2/2Pp3P/1P1N4/5RK1 w - - 1 0
 1. Bxd6+ Qe7 2. Qxf7#
 
 
-White Mates in 2.
 Teodora Rogozenco vs Marina Gabriel, Germany, 12/2/2012
 8/R7/pp1b2kp/1b1B1p2/5P1P/5KP1/P7/8 w - - 1 0
 1. h5+ Kxh5 2. Bf7#
 
 
-Black Mates in 2.
 Hendrik Kues vs Twan Burg, Germany, 12/9/2012
 2b3k1/6p1/p2bp2r/1p1p4/3Np1B1/1PP1PRq1/P1R3P1/3Q2K1 b - - 0 1
 1... Rh1+ 2. Kxh1 Qh2#
 
 
-White Mates in 2.
 Pavel Tregubov vs Krishnan Sasikiran, Moscow, 2/12/2013
 6k1/p2p2p1/8/3np1N1/1P5R/3q2P1/5RKP/8 w - - 1 0
 1. Rh8+ Kxh8 2. Rf8#
 
 
-Black Mates in 2.
 Danny Raznikov vs Zdenko Kozul, Skopje, 3/13/2013
 2r3k1/3b2b1/5pp1/3P4/pB2P3/2NnqN2/1P2B2Q/5K1R b - - 0 1
 1... Bh3+ 2. Qg2 Qf2#
 
 
-White Mates in 2.
 Martin Zumsande vs Rainer Polzin, Germany, 4/7/2013
 n3r1k1/Q4R1p/p5pb/1p2p1N1/1q2P3/1P4PB/2P3KP/8 w - - 1 0
 1. Rf8+ Qxf8 2. Qxh7#
 
 
-White Mates in 2.
 Michal Olszewski vs Mladen Palac, Bratto, 4/30/2013
 2r5/2k4p/1p2pp2/1P2qp2/8/Q5P1/4PP1P/R5K1 w - - 1 0
 1. Qe7+ Kb8 2. Qa7#
 
 
-White Mates in 2.
 Gudmundur Kjartansson vs Sergey Fedorchuk, Legnica, 5/5/2013
 6k1/4q1b1/p1p1p1Q1/1r4N1/4p3/1P5R/5P2/7K w - - 1 0
 1. Rh8+ Kxh8 2. Qh7#
 
 
-Black Mates in 2.
 Jan Musialkiewicz vs Elina Danielian, Legnica, 5/6/2013
 5rk1/pb2npp1/1pq4p/5p2/5B2/1B6/P2RQ1PP/2r1R2K b - - 0 1
 1... Qxg2+ 2. Qxg2 Rxe1#
 
 
-Black Mates in 2.
 Miodrag Perunovic vs Alexey Kislinsky, Legnica, 5/7/2013
 6k1/2R1Qpb1/3Bp1p1/1p2n2p/3q4/1P5P/2N2PPK/r7 b - - 0 1
 1... Qf4+ 2. g3 Qxf2#
 
 
-Black Mates in 2.
 Antonios Xylogiannopoulos vs Alexandru Manea, Legnica 5/7/2013
 6k1/pp3p2/2p2np1/2P1pbqp/P3P3/2N2nP1/2Pr1P2/1RQ1RB1K b - - 0 1
 1... Qxg3 2. fxg3 Rh2#
 
 
-White Mates in 2.
 Vlad-Cristian Jianu vs Burak Firat, Legnica, 5/13/2013
 6k1/p2rR1p1/1p1r1p1R/3P4/4QPq1/1P6/P5PK/8 w - - 1 0
 1. Rh8+ Kxh8 2. Re8#
 
 
-White Mates in 2.
 Hichem Hamdouchi vs Samy Shoker, Haguenau, 6/5/2013
 7R/1bpkp3/p2pp3/3P4/4B1q1/2Q5/4NrP1/3K4 w - - 1 0
 1. Qc6+ Bxc6 2. dxc6#
 
 
-White Mates in 2.
 Sasa Martinovic vs Vitezslav Rasik, Meissen, 6/5/2013
 1r3r1k/qp5p/3N4/3p2Q1/p6P/P7/1b6/1KR3R1 w - - 1 0
 1. Qg8+ Rxg8 2. Nf7#
 
 
-Black Mates in 2
 Alexander Areshchenko vs Sergei Zhigalko, Kiev, 6/6/2013
 r3k2r/p3bpp1/2q1p1b1/1ppPP1B1/3n3P/5NR1/PP2NP2/K1QR4 b kq - 0 1
 1... Nb3+ 2. axb3 Qa6#
 
 
-Black Mates in 2.
 Aleksei Pridorozhni vs Yuriy Kuzubov, Voronezh, 6/15/2013
 1r5k/3b3p/3p3b/2qPp3/Pnp4P/Q1N5/8/K5RR b - - 0 1
 1... Nc2+ 2. Ka2 Qxa3#
 
 
-Black Mates in 2.
 Tigran Kotanjian vs Tigran L. Petrosian, Jermuk 6/18/2013
 1k1r4/pp5R/2p5/P5p1/7b/4Pq2/1PQ2P2/3NK3 b - - 0 1
 1... Rxd1+ 2. Qxd1 Qxf2#
 
 
-White Mates in 2.
 Maria Kursova vs Tijana Blagojevic, Belgrade, 7/23/2013
 1r3k2/4R3/1p4Pp/p1pN1p2/2Pn1K2/1P6/1P6/8 w - - 1 0
 1. g7+ Kg8 2. Nf6#
 
 
-Black Mates in 2.
 Olena Martynkova vs Deimante Daulyte, Belgrade, 7/24/2013
 5bk1/R4p1p/6p1/8/3p2K1/1Q4P1/1P3P1q/2r5 b - - 0 1
 1... Qh5+ 2. Kf4 Qf5#
 
 
-White Mates in 2.
 Ekaterini Pavlidou vs Bojana Bejatovic, Belgrade, 7/24/2013
 3rr2k/pp1b2b1/4q1pp/2Pp1p2/3B4/1P2QNP1/P6P/R4RK1 w - - 1 0
 1. Qxh6+ Kg8 2. Qxg7#
 
 
-White Mates in 2.
 Cristina Adela Foisor vs Maja Velickovski-Kostic, Belgrade, 7/26/2013
 3r2k1/6pp/1nQ1R3/3r4/3N2q1/6N1/n4PPP/4R1K1 w - - 1 0
 1. Re8+ Kf7 2. R1e7#
 
 
-White Mates in 2.
 Ana Srebrnic vs Laura Rogule, Belgrade, 8/2/2013
 5bk1/6p1/5PQ1/pp4Pp/2p4P/P2r4/1PK5/8 w - - 1 0
 1. f7+ Kh8 2. Qxh5#

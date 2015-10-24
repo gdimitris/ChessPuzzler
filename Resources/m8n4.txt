@@ -2238,103 +2238,86 @@ Susanto Megaranto vs Tommy Supriyanto, Jakarta, 2011
 1. Rh7+ Ke8 2. Qxf8+ Kxf8 3. Rh8+ Ke7 4. R1h7# 
 
 
-White Mates in 4.
 Robin Dragomirescu vs Mircea Parligras, Sarata Monteoru, 2/15/2012
 8/pp2k1r1/3Np2p/5p1P/8/2Q3P1/5P1K/1q6 w - - 1 0
 1. Qc7+ Kf6 2. Ne8+ Kg5 3. Qxg7+ Kxh5 4. Nf6#
 
 
-White Mates in 4.
 Ilyas Sodikov vs Evandro Amorim Barbosa, Athens, 8/15/2012
 2r1rk2/1b2b1p1/p1q2nP1/1p2Q3/4P3/P1N1B3/1PP1B2R/2K4R w - - 1 0
 1. Rf2 Kg8 2. Qh2 Nh5 3. Qxh5 Bh4 4. Qh7# 
 
 
-Black Mates in 4.
 Sinisa Drazic vs Samuel Franklin, Livigno, 9/10/2012
 4r3/5kp1/1N1p4/2pR1q1p/8/pP3PP1/6K1/3Qr3 b - - 0 1
 1... R8e2+ 2. Qxe2 Rxe2+ 3. Kf1 Qxf3+ 4. Kg1 Qg2# 
 
 
-White Mates in 4.
 Imre Balog vs Robert Markus, Hungary, 10/7/2012
 2R3nk/3r2b1/p2pr1Q1/4pN2/1P6/P6P/q7/B4RK1 w - - 1 0
 1. Rxg8+ Kxg8 2. Nh6+ Kh8 3. Rf8+ Bxf8 4. Qg8#
 
 
-Black Mates in 4.
 Evgeniy Najer vs Yiping Lou, Beijing, 10/9/2012
 8/6pk/1R2p2p/1P1pPp2/3P1P1K/1r5P/5QP1/2q5 b - - 0 1
 1... g5+ 2. Kh5 Rxh3+ 3. gxh3 Qd1+ 4. Qe2 Qxe2#
 
 
-White Mates in 4.
 Borislav Ivanov vs Bojan Kurajica, Zadar, 12/17/2012
 6Q1/1q2N1n1/3p3k/3P3p/2P5/3bp1P1/1P4BP/6K1 w - - 1 0
 1. Qh8+ Bh7 2. Be4 Qxe7 3. Qxh7+ Kg5 4. Qg6#
 
 
-White Mates in 4.
 Vlad-Cristian Jianu vs Atanas Kolev, Plovdiv 2/ 4/2013
 2r4k/p4rRp/1p1R3B/5p1q/2Pn4/5p2/PP4QP/1B5K w - - 1 0
 1. Rg8+ Rxg8 2. Qxg8+ Kxg8 3. Rd8+ Rf8 4. Rxf8#
 
 
-White Mates in 4.
 Bartosz Socko vs Mads Andersen, Reykjavik, 3/ 2/2013
 1r1r4/Rp2np2/3k4/3P3p/2Q2p2/2P4q/1P1N1P1P/6RK w - - 1 0
 1. Ne4+ Kd7 2. Nf6+ Kd6 3. Qxf4+ Kc5 4. Qb4#
 
 
-Black Mates in 4.
 Sebastian Siebrecht vs Gawain Jones, Germany, 4/7/2013
 r2B1bk1/1p5p/2p2p2/p1n5/4P1BP/P1Nb4/KPn3PN/3R3R b - - 0 1
 1... Nb4+ 2. axb4 axb4+ 3. Ba5 Rxa5+ 4. Na4 Rxa4#
 
 
-Black Mates in 4.
 Ivan Sokolov vs Alexandre Danin, Koege, 4/23/2013
 6r1/Q4p2/4pq1k/3p2Nb/P4P1K/4P3/7P/2R5 b - - 0 1
 1... Rxg5 2. Qe7 Rg4+ 3. Kh3 Qxe7 4. Rc8 Qh4#
 
 
-Black Mates in 4.
 Azer Mirzoev vs Constantin Lupulescu, Legnica, 5/7/2013
 5rk1/p3br1p/8/2p3p1/N2pPB2/1P1P1qPb/P2Q3P/R3R1K1 b - - 0 1
 1... Rxf4 2. gxf4 Rxf4 3. Rac1 Rg4+ 4. Qg2 Qxg2#
 
 
-White Mates in 4.
 Dmitry Svetushkin vs Kamil Dragun, Legnica, 5/14/2013
 3Q1b2/5pk1/p3rNpp/1p2P3/4NP2/nP6/P3q1PP/3R3K w - - 1 0
 1. Qxf8+ Kxf8 2. Rd8+ Re8 3. Rxe8+ Kg7 4. Rg8#
 
 
-White Mates in 4.
 Yuriy Kuzubov vs Vladimir Onischuk, Voronezh, 6/20/2013
 1r1q4/5k2/1p1p2p1/2p4p/pPP1B1N1/P3Q1P1/2r2P1P/6K1 w - - 1 0
 1. Bd5+ Kf8 2. Qf4+ Qf6 3. Qxf6+ Ke8 4. Bc6# 
 
 
-White Mates in 4.
 Ketevan Arakhamia-Grant vs Ioulia Makka, Belgrade, 7/24/2013
 3R4/7R/1P2k3/3p1pr1/3B4/2P5/r5b1/5BK1 w - - 1 0
 1. Re8+ Kd6 2. Rh6+ Rg6 3. Rxg6+ Kd7 4. Bb5#
 
 
-Black Mates in 4.
 Zoja Schleining vs Nino Khurtsidze, Belgrade, 7/26/2013
 6k1/pp1n2p1/8/5q2/b1pPp2Q/P1Pr4/4RB2/RK6 b - - 0 1
 1... Qb5+ 2. Rb2 Rd1+ 3. Ka2 Bb3+ 4. Rxb3 Qxb3#
 
 
-White Mates in 4.
 Dimante Daulyte vs Antoaneta Stefanova, Belgrade, 7/27/2013
 4Nr1k/1bp2p1p/1r4p1/3P4/1p1q1P1Q/4R3/P5PP/4R2K w - - 1 0
 1. Qh6 Kg8 2. Re5 Qxe5 3. Rxe5 Rxe8 4. Rxe8#
 
 
-White Mates in 4.
 Tereza Olsarova vs Sopio Gvetadze, Belgrade, 7/27/2013
 1r2r2k/1q1n1p1p/p1b1pp2/3pP3/1b5R/2N1BBQ1/1PP3PP/3R3K w - - 1 0
 1. Rxh7+ Kxh7 2. Rd4 Bf8 3. Rh4+ Bh6 4. Rxh6#
